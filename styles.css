@@ -16,14 +16,16 @@
     width: 200px;
     height: 200px;
     border: 2px solid black;
+    border-radius: 7px;
 }
 
 .bigBox{
     width: 200px;
     height: 410px;
-    border: 2px solid black;
     grid-row-start: 1;
     grid-row-end: 3;
+    border-radius: 7px;
+
 }
 
 @media only screen and (max-width: 600px) {
