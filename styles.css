@@ -47,7 +47,7 @@
     
     .bigBox{
         width: 350px;
-        height: 210px;
+        height: 190px;
         grid-row-start: 1;
         grid-row-end: 3;
         border-radius: 7px;
